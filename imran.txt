@@ -1,3 +1,4 @@
 Name: Imran
 Color: Black
 Game: Football
+Aminal: Dog
