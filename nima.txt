@@ -1,0 +1,7 @@
+Name: Nima Moayedzadeh
+colour: Blue
+Sport : Football
+Cuisine: Italian
+Animal : Cheetah
+Race : Human
+
